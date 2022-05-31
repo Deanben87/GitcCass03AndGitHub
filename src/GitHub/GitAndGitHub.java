@@ -6,6 +6,7 @@ public class GitAndGitHub {
 		
 		
 		System.out.println("Today we learn github");
+		System.out.println("today is very good day ");
 		
 		
 
